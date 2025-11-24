@@ -1,0 +1,7 @@
+prefix=/media/nisitha/My_Passport/MOODLE/ml_project/ViT_Project/ViT_LLM/venv
+includedir=${prefix}/include
+
+Name: VideoProto
+Description: Video extension headers
+Version: 2.3.3
+Cflags: -I${includedir}

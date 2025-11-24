@@ -1,0 +1,7 @@
+prefix=/media/nisitha/My_Passport/MOODLE/ml_project/ViT_Project/ViT_LLM/venv
+includedir=${prefix}/include
+
+Name: DPMSProto
+Description: DPMS extension headers
+Version: 1.2
+Cflags: -I${includedir}

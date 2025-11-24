@@ -1,0 +1,7 @@
+prefix=/media/nisitha/My_Passport/MOODLE/ml_project/ViT_Project/ViT_LLM/venv
+includedir=${prefix}/include
+ 
+Name: FontsProto
+Description: Fonts extension headers
+Version: 2.1.3
+Cflags: -I${includedir}

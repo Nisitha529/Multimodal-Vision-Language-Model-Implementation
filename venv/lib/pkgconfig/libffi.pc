@@ -1,0 +1,11 @@
+prefix=/media/nisitha/My_Passport/MOODLE/ml_project/ViT_Project/ViT_LLM/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/media/nisitha/My_Passport/MOODLE/ml_project/ViT_Project/ViT_LLM/venv/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

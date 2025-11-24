@@ -1,0 +1,7 @@
+prefix=/media/nisitha/My_Passport/MOODLE/ml_project/ViT_Project/ViT_LLM/venv
+includedir=${prefix}/include
+ 
+Name: GLProto
+Description: GL extension headers
+Version: 1.4.17
+Cflags: -I${includedir}

@@ -1,0 +1,5 @@
+#!/media/nisitha/My_Passport/MOODLE/ml_project/ViT_Project/ViT_LLM/venv/bin/python3.10
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
